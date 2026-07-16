@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="./README_en.md">English</a>
+  <a href="README_en.md">English</a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
   &nbsp;
   <a href="https://qwen.ai/qwencode"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/qwen-color.svg" height="22" title="Qwen Code" alt="Qwen Code"/></a>
   &nbsp;
-  <a href="https://qoder.com"><img src="./assets/qoder-favicon.svg" height="22" title="Qoder" alt="Qoder"/></a>
+  <a href="https://qoder.com"><img src="assets/qoder-favicon.svg" height="22" title="Qoder" alt="Qoder"/></a>
   &nbsp;
   <a href="https://github.com/opencode-ai/opencode"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/opencode.svg" height="22" title="opencode" alt="opencode"/></a>
   &nbsp;
@@ -66,11 +66,11 @@
   &nbsp;
   <a href="https://www.trae.ai"><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/trae-color.svg" height="22" title="TRAE" alt="TRAE"/></a>
   &nbsp;
-  <a href="https://kiro.dev"><img src="./assets/kiro.svg" height="22" title="Kiro" alt="Kiro"/></a>
+  <a href="https://kiro.dev"><img src="assets/kiro.svg" height="22" title="Kiro" alt="Kiro"/></a>
   &nbsp;
-  <a href="https://devin.ai"><img src="./assets/devin.png" height="22" title="Devin" alt="Devin"/></a>
+  <a href="https://devin.ai"><img src="assets/devin.png" height="22" title="Devin" alt="Devin"/></a>
   &nbsp;
-  <a href="https://www.augmentcode.com"><img src="./assets/augment.png" height="22" title="Augment Code" alt="Augment Code"/></a>
+  <a href="https://www.augmentcode.com"><img src="assets/augment.png" height="22" title="Augment Code" alt="Augment Code"/></a>
 </p>
 
 ---
@@ -145,4 +145,4 @@ npx skills add QianWen-AI/qianwenyun-deploy
 
 ## 许可证
 
-[Apache 2.0](./LICENSE)
+[Apache 2.0](LICENSE)
